@@ -1,6 +1,8 @@
 scrollstyle
 ===========
 
+**Licensed under [cc by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/) with attribution required**
+
 Browser Scroll initiated CSS transition/animation library
 
 Allows for content to be animated on browser scroll by initiating CSS animations/transitions.
